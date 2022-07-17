@@ -1,3 +1,3 @@
-# Javaaplication1
+# Java App
 
-simple java class to manage ArrayList
+simple example using class to manage ArrayList
